@@ -1,5 +1,5 @@
 # Excluir venv completo (con DLLs pesadas de TensorFlow)
-Detector_IA/
+
 venv/
 
 # Excluir dataset grande y procesados
