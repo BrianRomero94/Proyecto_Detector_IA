@@ -1,0 +1,18 @@
+# Excluir venv completo (con DLLs pesadas de TensorFlow)
+Detector_IA/
+venv/
+
+# Excluir dataset grande y procesados
+data/raw/AI_Human.csv
+data/processed/
+
+# Excluir temporales, binaries y otros pesados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.dll
+*.exe
+*.bin
+*.keras.bak
+*.h5
